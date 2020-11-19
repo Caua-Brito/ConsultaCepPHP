@@ -69,7 +69,7 @@ if ($_POST['cep'] == ""){
       <li class="list-group-item">uf: ' . $decodeJson['uf'] . '</li>
       <li class="list-group-item">ibge: ' . $decodeJson['ibge'] . '</li>
       <li class="list-group-item">gia: ' . $decodeJson['gia'] . '</li>
-      <li class="list-group-item">ddd: ' . $decodeJson['dddd'] . '</li>
+      <li class="list-group-item">ddd: ' . $decodeJson['ddd'] . '</li>
       <li class="list-group-item">siafi: ' . $decodeJson['siafi'] . '</li>
     </ul>
     </div>
